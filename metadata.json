@@ -1,0 +1,13 @@
+{
+  "author": "Luke Kreczko",
+  "dependencies": [],
+  "license": "Apache 2.0",
+  "name": "HEPPuppet-glexec",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "https://github.com/kreczko/glexec",
+  "summary": "glexec",
+  "tags": [],
+  "version": "0.0.1"
+}
